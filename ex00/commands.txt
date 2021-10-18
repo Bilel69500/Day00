@@ -1,0 +1,623 @@
+    1  php artisan migrate:fresh
+    2  sudo chown -R www-data:www-data public
+    3  cd ../
+    4  sudo chown -R www-data:www-data data/public
+    5  cd ../
+    6  sudo chown -R www-data:www-data bil/data/public
+    7  sudo chmod 755 /bil
+    8  sudo chmod 755 bil
+    9  cd ../
+   10  sudo chmod 755 bilel/bil
+   11  sudo chown -R www-data
+   12  sudo chown -R www-data:www-data media/bilel/bil/data/public
+   13  sudo chmod 755 /media/bilel/bil
+   14  sudo chmod -R 755 /media/bilel/bil/data/bootstrap/cache
+   15  sudo chmod -R 755 /media/bilel/bil/data/storage
+   16  sudo systemctl restart nginx
+   17  service php7.4-fpm restart
+   18  sudo service php7.4-fpm restart
+   19  sudo service php7.4 restart
+   20  php -v
+   21  sudo chown -R www-data:www-data /media/bilel/bil/data
+   22  sudo chown -R www-data:www-data /media/bilel/bil/data/public
+   23  restart php7.4
+   24  systemctl restart php7.4
+   25  sudo systemctl restart php7.4
+   26  systemctl restart php7.4
+   27  systemctl restart php7
+   28  sudo chmod -R 755 /media/bilel/bil/storage/public/products
+   29  sudo chmod -R 755 /media/bilel/bil/data/storage/public/products
+   30  sudo chgrp -R www-data /media/bilel/bil/data/storage/public/products
+   31  sudo chmod -R ug+rwx /media/bilel/bil/data/storage/public/products
+   32  sudo systemctl restart nginx
+   33  sudo nginx -t
+   34  sudo nano /etc/nginx/sites-available/default
+   35  sudo systemctl restart nginx
+   36  sudo nano /etc/nginx/sites-available/default
+   37  sudo nginx -t
+   38  sudo nano /etc/nginx/sites-available/default
+   39  cd /media/bilel/bil/data/public
+   40  ls
+   41  cd ../
+   42  sudo systemctl restart nginx
+   43  sudo chown -R www-data:www-data *
+   44  sudo chmod 755 public
+   45  sudo systemctl restart nginx
+   46  sudo nano /etc/nginx/sites-available/default
+   47  cd ../
+   48  chmod -x /bil/data
+   49  chmod -x bil/data
+   50  ls -la
+   51  cd bil
+   52  ls -la
+   53  cd data
+   54  ls -la
+   55  nginx -s reload
+   56  sudo nginx -s reload
+   57  sudo nano /etc/nginx/sites-available/default
+   58  sudo nginx -s reload
+   59  sudo ufw allow 'Nginx HTTP'
+   60  sudo nano /etc/nginx/sites-available/default
+   61  sudo systemctl restart php7.4
+   62  php
+   63  php -v
+   64  sudo systemctl restart php7.4.23
+   65  systemctl list
+   66  systemctl 
+   67  clear
+   68  sudo systemctl restart php7.4.23
+   69  sudo nginx -s reload
+   70  which php
+   71  sudo systemctl restart php
+   72  sudo systemctl restart php7.4-fpm
+   73  cd ../
+   74  ls
+   75  cd usr
+   76  ls
+   77  cd bin
+   78  ls
+   79  cd php
+   80  cd phpp
+   81  cd php7.4
+   82  cd php
+   83  cd php7.4
+   84  sudo service php7.4-fpm restart
+   85  sudo service php7.4-fpm
+   86  sudo service php7.4
+   87  sudo service php7.4 restart
+   88  php -v
+   89  sudo service php7.4.23 restart
+   90  sudo service php7.4-fpm restart
+   91  sudo systemctl restart php7.4
+   92  sudo systemctl restart php7.4-fpm
+   93  sudo apt-get install php
+   94  sudo apt-get install php7.4-fpm
+   95  php -v
+   96  cd ../
+   97  cd etc
+   98  ls
+   99  cd php
+  100  ls
+  101  cd 7..4
+  102  cd 7.4
+  103  ls
+  104  cd fpm
+  105  ls
+  106  sudo nano php.ini
+  107  sudo systemctl restart php7.4-fpm
+  108  sudo nginx -s reload
+  109  cd ../
+  110  cd ..:
+  111  cd ../
+  112  sudo nano /var/log/nginx/error.log
+  113  sudo nano /etc/nginx/sites-available/default
+  114  sudo nginx -s reload
+  115  sudo nano /etc/nginx/sites-available/default
+  116  sudo nginx -s reload
+  117  sudo nano /etc/nginx/sites-available/default
+  118  sudo nginx -s reload
+  119  sudo nano /etc/nginx/sites-available/default
+  120  sudo nginx -s reload
+  121  cd ../
+  122  ls
+  123  cd bilel
+  124  cd bil
+  125  ls
+  126  sudo apt install gnupg
+  127  gpg -gen-key
+  128  gpg --gen-key
+  129  gpg --armor --export Ratalo@protonmail.com > public_key.asc
+  130  ls
+  131  cd data
+  132  phpstorm .
+  133  cd ../
+  134  ls
+  135  cd media/
+  136  ls
+  137  cd bilel
+  138  cd ata
+  139  ls
+  140  cd bil
+  141  cd data/
+  142  gpg --decrypt --output public.txt p.txt.enc
+  143  cd ../
+  144  gpg --decrypt --output public.txt p.txt.enc
+  145  sudo chmod -R 755 data/storage/public/products
+  146  cd data
+  147  ls
+  148  sudo chgrp -R www-data storage/storage/public/products
+  149  cd storage
+  150  ls
+  151  cd public
+  152  ls
+  153  cd ../
+  154  sudo chgrp -R www-data storage/public/products
+  155  sudo chmod -R ug+rwx storage/public/products
+  156  sudo ../
+  157  cd ../
+  158  sudo chmod 755 /bilel/bil
+  159  sudo chmod 755 bilel/bil
+  160  sudo chmod -R www-data:www-data  bilel/bil/data/public
+  161  sudo chmod -R www-data:wwww-data  bilel/bil/data/public
+  162  sudo chown  -R www-data:www-data  bilel/bil/data/public
+  163  sudo chown  -R 755  bilel/bil/data/bootstrap/cache
+  164  sudo chown  -R 755  bilel/bil/data/bootstrap/storage
+  165  sudo chown  -R 755  bilel/bil/data/storage
+  166  sudo chown  -R 755  bilel/bil/data/storage/public/products
+  167   bilel/bil/data/pub
+  168  sudo chown  -R www-data  bilel/bil/data/storage/public
+  169  cd bilel
+  170  sudo chown  -R www-data bil/data/storage/public
+  171  sudo nginx -t
+  172  sudo nano /etc/nginx/sites-available/default
+  173  sudo systemctl reload nginx
+  174  sudo nano /etc/nginx/sites-available/default
+  175  sudo nginx -t
+  176  sudo nano /etc/nginx/sites-available/default
+  177  sudo nginx -t
+  178  sudo systemctl reload nginx
+  179  sudo systemctl stop nginx
+  180  sudo systemctl start nginx
+  181  sudo nano /etc/nginx/sites-available/default
+  182  sudo systemctl start nginx
+  183  sudo nano /etc/php7.4/fpm/php.ini
+  184  cd ../
+  185  sudo nano /etc/php7.4/fpm/php.ini
+  186  cd /etc/php7.4/
+  187  cd /etc/
+  188  ls
+  189  cd php
+  190  ls
+  191  cd 7.4
+  192  ls
+  193  cd fpm
+  194  ls
+  195  sudo nano php.ini
+  196  service php-fpm restart
+  197  service php-7.4 restart
+  198  sudo service php-7.4 restart
+  199  sudo service php7.0-fpm restart
+  200  sudo service php7.4*-fpm restart
+  201  sudo service php7.4-fpm restart
+  202  cd ../
+  203  ls
+  204  cd media
+  205  ls
+  206  cd bilel
+  207  cd bil
+  208  ls
+  209  cd data
+  210  composer dumpautoload
+  211  cd ../
+  212  chown -R www-data data
+  213  sudo chown -R www-data data
+  214  sudo service php7.4-fpm restart
+  215  sudo chown www-data:www-data storage
+  216  cd data
+  217  ls
+  218  rm -rf vendor && composer install
+  219  sudo rm -rf vendor && composer install
+  220  sudo service php7.4-fpm restart
+  221  sudo systemctl start nginx
+  222  composer require php-parallel-lint/php-console-color
+  223  composer require laminas/laminas-diactoros
+  224  sudo chmod -R 755 storage
+  225  sudo -i
+  226  sudo chown www-data:www-data storage
+  227  php artisan storage:link
+  228  cd ../
+  229  cd media
+  230  cd bilel/bil
+  231  cd data
+  232  phpstorm .
+  233  cd ../
+  234  ls
+  235  cd media
+  236  ls
+  237  cd bilel
+  238  sudo nginx start
+  239  nginx
+  240  sudo service nginx start
+  241  sudo nano  /etc/nginx/sites-available/default
+  242  sudo service nginx start
+  243  cd ../
+  244  ls
+  245  cd ../
+  246  ls
+  247  cd ../
+  248  ls
+  249  sudo wget https://launchpad.net/veracrypt/trunk/1.24-update7/+download/veracrypt-1.24-Update7-Ubuntu-20.04-amd64.deb
+  250  sudo apt-get install ./veracrypt-1.24-Update7-Ubuntu-20.04-amd64.deb
+  251  cd ../
+  252  ls
+  253  cd ../
+  254  ls
+  255  cd bil
+  256  cd bin
+  257  ls
+  258  cd ../
+  259  ls
+  260  clear
+  261  ls
+  262  cd root
+  263  cd media
+  264  ls
+  265  cd bilel
+  266  ls
+  267  cd 
+  268  ls
+  269  cd ../
+  270  cd veracrypt1
+  271  ls
+  272  cd ../
+  273  ls
+  274  cd media
+  275  ls
+  276  cd veracrypt1/
+  277  ls
+  278  cd ../
+  279  ls
+  280  cd ../
+  281  ls
+  282  cd ../
+  283  ls
+  284  cd ../
+  285  ls
+  286  cd media
+  287  ls
+  288  cd veracrypt1/
+  289  composer update
+  290  composer
+  291  clear
+  292  composer install
+  293  sudo apt-get install subversion build-essential git-core libncurses5-dev zlib1g-dev gawk flex quilt libssl-dev xsltproc libxml-parser-perl mercurial bzr ecj cvs unzip git wget
+  294  ls
+  295  cd bureau
+  296  cd Bureau/
+  297  git clone https://github.com/gl-inet/imagebuilder-lede-ramips.git
+  298  sudo apt update
+  299  cd ../
+  300  ls
+  301  cd media
+  302  ls
+  303  sudo systemctl reload php-fpm
+  304  sudo systemctl reload php-7.4
+  305  sudo systemctl restart nginx
+  306  sudo /etc/init.d/php-fpm restart
+  307  clear
+  308  ls
+  309  cd veracrypt5
+  310  symfony server:start -d
+  311  symfony server:stop
+  312  php artisan
+  313  cd data
+  314  php artisan
+  315  composer update
+  316  mysql -u root
+  317  mysql -u root -p
+  318  cd ../
+  319  sudo chown -R www-data:www-data 
+  320  sudo chown -R www-data:www-data /veracrypt5/data/public
+  321  sudo chown -R www-data:www-data veracrypt5/data/public
+  322  sudo chmod 755 veracrypt5
+  323  sudo chmod -R 755 veracrypt5/boostrap/cache
+  324  sudo chmod -R 755 veracrypt5/data/boostrap/cache
+  325  sudo chmod -R 755 veracrypt5/data/bootstrap/cache
+  326  sudo chmod -R 755 veracrypt5/data/storage
+  327  sudo chmod -R 755 veracrypt5/storage/public/products
+  328  sudo chmod -R 755 veracrypt5/data/storage/public/products
+  329  cd veracrypt5
+  330  ls
+  331  cd data
+  332  sudo chgrp -R www-data storage/storage/public/products
+  333  sudo chgrp -R www-data storage/public/products
+  334  sudo chmod -R ug+rwx storage/public/products
+  335  cd ../
+  336  ls
+  337  cd ../
+  338  ls
+  339  cd etc
+  340  ls
+  341  cd php
+  342  ls
+  343  cd 7.4
+  344  ls
+  345  cd fpm
+  346  ls
+  347  sudo nano php.ini 
+  348  cd ../
+  349  clear
+  350  ls
+  351  cd nginx
+  352  ls
+  353  cd sites-available
+  354  ls
+  355  cd ../
+  356  cd sites-available
+  357  ls
+  358  sudo nano default
+  359  sudo systemctl restart nginx
+  360  sudo nano default
+  361  sudo systemctl restart nginx
+  362  php -v
+  363  sudo nano default
+  364  sudo systemctl restart nginx
+  365  sudo nano default
+  366  sudo systemctl restart nginx
+  367  php -v
+  368  systemctl restart php7.4-fpm
+  369  sudo systemctl restart php7.4-fpm
+  370  sudo nano default
+  371  sudo systemctl restart nginx
+  372  sudo nano default
+  373  sudo systemctl restart nginx
+  374  sudo service nginx restart
+  375  cd ../
+  376  ls
+  377  cd media
+  378  ls
+  379  cd veracrypt5
+  380  ls
+  381  cd data
+  382  ls
+  383  cd desktop
+  384  ls
+  385  cd Bureau
+  386  cd btc
+  387  vagrant init
+  388  sudo VagrantFile
+  389  sudo nano  VagrantFile
+  390  vagrant up
+  391  sudo nano  VagrantFile
+  392  sudo nano  Vagrantfile
+  393  vagrant up
+  394  vagrant ssh
+  395  vagrant reload
+  396  vagrant halt
+  397  vagrant reload
+  398  vagrant ssh
+  399  vagrant reload
+  400  ls
+  401  cd Bureau
+  402  cd work/
+  403  ls
+  404  cd cagibig/
+  405  ls
+  406  cd cagibig-mut/
+  407  ls
+  408  vagrant up
+  409  symfony server:start -d
+  410  symfony server:stop
+  411  vagrant up
+  412  cd ../
+  413  ls
+  414  cd ../
+  415  ls
+  416  cd vagrant
+  417  ls
+  418  vagrant up
+  419  cd desktop
+  420  ls
+  421  cd Bureau
+  422  ls
+  423  cd work 
+  424  ls
+  425  cd vagrant 
+  426  ls
+  427  vagrant up
+  428  vagrant ssh
+  429  cd Desktop
+  430  ms
+  431  ls
+  432  cd Bureau
+  433  cd work
+  434  ls
+  435  cd vagrant
+  436  vagrant up
+  437  composer require --dev symfony/var-dumper
+  438  console cache:clear
+  439  vagrant ssh
+  440  cd desktop
+  441  cd Bureau
+  442  cd work
+  443  cd vagrant
+  444  vagrant up
+  445  vagrant ssh
+  446  cd ../
+  447  cd WebStorm-212.5284.41/
+  448  ./webstorm.sh
+  449  cd ../
+  450  ls
+  451  cd ../
+  452  ls
+  453  cd ../
+  454  ls
+  455  cd Bureau
+  456  cd WebStorm-212.5284.41/
+  457  ./webstorm.sh
+  458  cd bin
+  459  ./webstorm.sh
+  460  cd Bureau
+  461  ls
+  462  cd work
+  463  cd vagrant
+  464  vagrant up
+  465  ls
+  466  vagrant ssh
+  467  cd Bureau
+  468  ls
+  469  cd work
+  470  ls
+  471  cd vagrant 
+  472  ls
+  473  vagrant up
+  474  cd Bureau
+  475  cd cagibig
+  476  cd work
+  477  ls
+  478  cd cagibig
+  479  ls
+  480  cd ../
+  481  vagrant up
+  482  cd vagrant
+  483  ls
+  484  vagrant up
+  485  vagrant ssh
+  486  ls
+  487  cd Bureau/
+  488  ls
+  489  cd Cagibig/
+  490  ls
+  491  cd ../
+  492  ls
+  493  cd work
+  494  ls
+  495  cd vagrant up
+  496  ls
+  497  cd vagrant/
+  498  vagrant up
+  499  vagrant ssh
+  500  cd Bureau
+  501  ls
+  502  cd work
+  503  ls
+  504  cd vagrant/
+  505  vagrant up
+  506  cd Desktop
+  507  cd Bureau
+  508  ls
+  509  cd work
+  510  ls
+  511  cd vagrant
+  512  vagrant up
+  513  vagrant ssh
+  514  ls
+  515  cd Bureau
+  516  ls
+  517  cd work
+  518  ls
+  519  cd vagrant
+  520  ls
+  521  vagrant up
+  522  ls
+  523  vagrant ssh
+  524  cd Desktop
+  525  ms
+  526  ls
+  527  cd Bureau/
+  528  ls
+  529  mkdir Day00
+  530  cd Day00
+  531  ls
+  532  mkdir ex00
+  533  ls ex00
+  534  history
+  535  ls
+  536  cd ex00
+  537  mkdir covers
+  538  cd covers
+  539  mkdir Constructeurs 
+  540  ls
+  541  cd Constructeurs/
+  542  ls
+  543  mkdor PSD
+  544  mkdir PS4
+  545  cd PS4
+  546  mv /Bureau/fifa14.jpg /Bureau/Day00/ex00/covers/Constructeurs/PS4
+  547  ls
+  548  cd ../
+  549  ls
+  550  mkdir PS5
+  551  cd ../
+  552  ls
+  553  cd Constructeurs/
+  554  ls
+  555  cd PSD
+  556  PS4
+  557  cd PS4
+  558  ls
+  559  rm farcry.jpg 
+  560  cd ../
+  561  ls
+  562  cd PS5
+  563  cd ../
+  564  ls
+  565  cd ../
+  566  ls
+  567  mkdir Consoles portables
+  568  ls
+  569  rm Constructeurs
+  570  rm -r Constructeurs
+  571  rm -r portables
+  572  mkdir 'Consoles Portables'
+  573  ls
+  574  rm -r 'Consoles Portables'/
+  575  mkdir Consoles_Portables
+  576  ls
+  577  cd Consoles_Portables/
+  578  mkdir Nintendo
+  579  ls
+  580  cd Nintendo/
+  581  mkdir GameCube
+  582  ls
+  583  cd ../
+  584  ls
+  585  mkdir Game_Boy
+  586  cd Game_Boy/
+  587  cd ../
+  588  ls
+  589  cd ../
+  590  ls
+  591  mkdir Microsoft
+  592  ls
+  593  cd Microsoft/
+  594  ls
+  595  cd Xbox
+  596  mkdir Xbox
+  597  ls
+  598  cd Xbox
+  599  ls
+  600  cd ../
+  601  ls
+  602  cd Xbox360
+  603  cd ../
+  604  mkdir Sega
+  605  mkdir Consoles
+  606  rm -r Consoles
+  607  ls
+  608  cd Covers
+  609  cd covers/
+  610  ls
+  611  mkdir Sega
+  612  ls
+  613  cd Sega
+  614  ls
+  615  mkdir Consoles
+  616  mkdir Dreamcast
+  617  rm -r Dreamcast
+  618  cd Consoles/
+  619  mkdir Dreamcast
+  620  ls
+  621  cd Dreamcast
+  622  cd ../
+  623  history >> commands.txt
