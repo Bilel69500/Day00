@@ -1,0 +1,3 @@
+sed 's/cadillac/chevrolet/' magic.txt
+sed 's/jaune/impala/' magic.txt
+sed 's/rouge/vert/' magic.txt
