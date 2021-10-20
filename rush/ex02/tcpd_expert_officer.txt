@@ -1,0 +1,3 @@
+grep 'Officer' ./tcpd_department.csv >> temp.csv
+grep '8' temp.csv >> tcpd_expert_officer.txt
+Cameron,Officer,8
